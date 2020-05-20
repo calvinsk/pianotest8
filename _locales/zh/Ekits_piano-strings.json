@@ -1,0 +1,10 @@
+{
+  
+  "Ekits_piano.turn_on_RGB|block": "七彩灯",
+  "Ekits_piano.turn_off_RGB|block": "关闭七彩灯",  
+
+  "Ekits_piano.Musicmelody|block": "音乐播放|%index",
+  "Ekits_piano.Touch|block": "音乐触摸返回",
+  "Ekits_piano.TouchButton|block" : "音乐按钮|%value",
+  "Ekits_piano.PlayPiano|block" : "弹钢琴|音调 %value"
+}
