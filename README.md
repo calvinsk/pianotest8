@@ -1,6 +1,6 @@
-# tools
+# Ekits piano extension
 
-這是專為測試用的micro:bit積木
+Ekits Piano extension v1.0.0
 
 ## License
 
