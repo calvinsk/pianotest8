@@ -82,7 +82,7 @@ namespace Ekits_piano {
   
     
     
-    //% blockId="turn_on_RGB" block="Turn On RGB Light"
+    //% blockId="turn_on_RGB" block="Turn On RGB LEDs"
     //% weight=99
     //% blockGap=10
     //% color="#2131CB"
@@ -98,7 +98,7 @@ namespace Ekits_piano {
   
   
   
-    //% blockId="turn_off_RGB" block="Turn Off RGB Light"
+    //% blockId="turn_off_RGB" block="Turn Off RGB LEDs"
     //% weight=98
     //% blockGap=10
     //% color="#2131CB"
@@ -111,7 +111,7 @@ namespace Ekits_piano {
     
   
   
-    //% blockId="Musicmelody" block="Music Melody|%index"
+    //% blockId="Musicmelody" block="Play Music|%index"
     //% weight=98
     //% blockGap=10
     //% color="#2131CB"
@@ -169,7 +169,7 @@ namespace Ekits_piano {
         return c;
     }
 
-    //% blockId="PlayPiano" block="Play Piano|tone %value"
+    //% blockId="PlayPiano" block="Play Piano tone|tone %value"
     //% weight=95
     //% blockGap=10
     //% color="#2131CB"
