@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-piano=github:calvinsk/piano
+piano=github:calvinsk/Ekitspiano
 ```
