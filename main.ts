@@ -142,7 +142,7 @@ namespace Ekits_piano {
         }
     }
     
-    //% blockId="Touch" block="Music Touch return"
+    //% blockId="Touch" block="Music Touch Return"
     //% weight=97
     //% blockGap=10
     //% color="#2131CB"
@@ -158,7 +158,7 @@ namespace Ekits_piano {
         return c;
     }
     
-    //% blockId="TouchButton" block="Music Note And pitch|%value"
+    //% blockId="TouchButton" block="Music Note And Pitch|%value"
     //% weight=96
     //% blockGap=10
     //% color="#2131CB"
@@ -169,7 +169,7 @@ namespace Ekits_piano {
         return c;
     }
 
-    //% blockId="PlayPiano" block="Play Piano tone|tone %value"
+    //% blockId="PlayPiano" block="Play Piano|Tone %value"
     //% weight=95
     //% blockGap=10
     //% color="#2131CB"
